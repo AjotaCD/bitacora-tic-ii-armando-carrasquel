@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-areas/educacion-upel/tic-ii/introduccion-a-la-bitacora/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-home":true,"dg-publish":true,"editor-width":100,"cssclasses":["hide-properties"],"sticker":"lucide//home","banner_y":"46","banner":"https://i.pinimg.com/736x/8d/2b/cc/8d2bccbf38151cfa6c727eabcc9531ec.jpg","permalink":"/20-areas/educacion-upel/tic-ii/introduccion-a-la-bitacora/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2026-05-10T01:06:13.978-04:00","updated":"2026-05-12T19:27:49.649-04:00","dg-note-properties":{"editor-width":100,"cssclasses":["hide-properties"],"sticker":"lucide//home","banner_y":"46","banner":"https://i.pinimg.com/736x/8d/2b/cc/8d2bccbf38151cfa6c727eabcc9531ec.jpg"}}
 ---
 
 **Asignatura**: Tecnologías de la Información y Comunicación II (TIC II)
@@ -13,18 +13,19 @@ Tutor: Mg. Edgardo Yrausquin
 
 [[20_AREAS/Educación - UPEL/TIC II/Entrada 1 - Realización de un análisis critico y mi experiencia en un grupo interdisciplinario\|Entrada 1 - Realización de un análisis critico y mi experiencia en un grupo interdisciplinario]]
 ---
-## Mi elección de herramienta. Un Digital Garden
+## Mi elección de herramienta. Digital Garden
 
-Originalmente, este registro se planteó como un blog convencional en Blogger. Sin embargo, en la búsqueda de un sistema que realmente potencie el aprendizaje interconectado y la gestión del conocimiento, he decidido migrar hacia un **Digital Garden**. Esta es una herramienta que funciona como un "publisher" para publicar notas de obsidian a modo de pagina web (Obsidian es un software de toma de notas en formato estandarizado markdown que permite mantener una jerarquia de encabezados simple)
+Originalmente, este registro se planteó como un blog convencional en Blogger. Sin embargo, en la búsqueda de un sistema que realmente potencie el aprendizaje interconectado y la gestión del conocimiento, he decidido migrar hacia un **Digital Garden**. Esta es una herramienta que funciona como un "publisher" para publicar notas de obsidian a modo de pagina web (Obsidian es un software de toma de notas en formato estandarizado markdown que permite mantener una jerarquia de encabezados simple).
+El mayor desafio que pude encontrar durante la integración de esta herramienta fue la configuración del servidor con la herramienta Vercel y Github como host del repositorio. Sin embargo me parece la mejor manera de establecer mi bitácora
 
 Esta evolución me permite:
-
 - **Superar la linealidad:** En lugar de simples entradas cronológicas, construyo una red de notas vinculadas que crecen y se refinan con el tiempo.
     
 - **Integración Nativa con Obsidian:** Publico directamente desde mi entorno de trabajo, lo que garantiza que el contenido sea un reflejo fiel de mi "cerebro digital".
     
 - **Capacidad Multimodal:** Facilita la futura integración de herramientas como **Obsidian Canvas** para el Tablero Digital, elevando el estándar técnico de la entrega.
-    
+
+# Guia estructural
 
 ### Justificación: Adaptación y Sostenibilidad Física
 
@@ -46,8 +47,6 @@ He diseñado este espacio bajo un modelo de **Nodo Central**, asegurando que el 
 2. **Registro Cronológico:** Aunque el jardín es no lineal, he implementado una sección de **"Entradas Recientes"** para respetar la organización temporal exigida en la planificación.
     
 3. **Transparencia Técnica:** Dado que las plataformas de publicación pueden omitir funciones estéticas de Obsidian (como los _callouts_), incluyo capturas de pantalla de mi entorno local como evidencia de mi proceso de organización avanzado.
-    
-
 ---
 
 > [!IMPORTANT]
@@ -55,10 +54,7 @@ He diseñado este espacio bajo un modelo de **Nodo Central**, asegurando que el 
 > **Nota de Accesibilidad:** Esta metodología no solo busca la excelencia académica, sino la sostenibilidad física, adaptando la herramienta al usuario y no el usuario a las limitaciones de la plataforma.
 ###  Evidencia del Proceso de Configuración
 
-Para validar el uso efectivo de estas TIC, presento la interfaz de mi entorno de trabajo en Obsidian. En esta captura se puede observar la organización por carpetas y el uso de etiquetas para clasificar cada fase del semestre de acuerdo con las pautas de la asignatura.
-
-### Evidencia del Proceso
-
+![Pasted image 20260512174112.png](/img/user/99_ADJUNTOS/Pasted%20image%2020260512174112.png)
 
 
 
@@ -73,3 +69,8 @@ De acuerdo a las pautas del profesor, este espacio servirá para documentar:
 - **Reflexión:** Análisis crítico sobre cómo interactúo con las TIC según mis características neurodivergentes.
     
 - **Evidencias:** Respaldo visual de cada etapa del aprendizaje.
+
+>[!whoa] Tablero digital
+>Gracias a la función "Canvas" de obsidian, en esta misma plataforma estaré administrando el tablero digital
+
+![[20_AREAS/Educación - UPEL/TIC II/Tablero Digital.canvas\|Tablero Digital.canvas]]
