@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"editor-width":100,"cssclasses":["hide-properties"],"sticker":"lucide//home","banner_y":"46","banner":"https://i.pinimg.com/736x/8d/2b/cc/8d2bccbf38151cfa6c727eabcc9531ec.jpg","permalink":"/20-areas/educacion-upel/tic-ii/introduccion-a-la-bitacora/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2026-05-10T01:06:13.978-04:00","updated":"2026-05-12T19:27:49.649-04:00","dg-note-properties":{"editor-width":100,"cssclasses":["hide-properties"],"sticker":"lucide//home","banner_y":"46","banner":"https://i.pinimg.com/736x/8d/2b/cc/8d2bccbf38151cfa6c727eabcc9531ec.jpg"}}
+{"dg-publish":true,"permalink":"/20_AREAS/Educación - UPEL/TIC II/Introducción a la bitácora/","tags":["gardenEntry"],"noteIcon":"[material-symbols--note-alt.svg](/img/user/99_ADJUNTOS/material-symbols--note-alt.svg)","updated":"2026-05-20T11:25:24.169-04:00","dg-note-properties":{"editor-width":100,"cssclasses":["hide-properties"],"sticker":"lucide//home","banner_y":"46","banner":"https://i.pinimg.com/736x/8d/2b/cc/8d2bccbf38151cfa6c727eabcc9531ec.jpg"}}
 ---
 
 **Asignatura**: Tecnologías de la Información y Comunicación II (TIC II)
@@ -11,7 +11,18 @@ Tutor: Mg. Edgardo Yrausquin
 
 > [!Note] Este apartado funcionará como el centro de navegación del blog. Será actualizado con enlaces a medida que publique nuevas entradas.
 
-[[20_AREAS/Educación - UPEL/TIC II/Entrada 1 - Realización de un análisis critico y mi experiencia en un grupo interdisciplinario\|Entrada 1 - Realización de un análisis critico y mi experiencia en un grupo interdisciplinario]]
+
+```base
+views:
+  - type: table
+    name: Tabla
+    filters:
+      and:
+        - file.hasProperty("dg-publish")
+
+```
+
+
 ---
 ## Mi elección de herramienta. Digital Garden
 
