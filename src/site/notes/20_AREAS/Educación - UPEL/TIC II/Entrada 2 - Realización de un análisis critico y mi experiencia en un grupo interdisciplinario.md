@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20_AREAS/Educación - UPEL/TIC II/Entrada 2 - Realización de un análisis critico y mi experiencia en un grupo interdisciplinario/","noteIcon":"","updated":"2026-05-20T11:21:00.757-04:00","dg-note-properties":{"fecha_creacion":"2026-04-29"}}
+{"dg-publish":true,"permalink":"/20_AREAS/Educación - UPEL/TIC II/Entrada 2 - Realización de un análisis critico y mi experiencia en un grupo interdisciplinario/","noteIcon":"","dg-note-properties":{"fecha_creacion":"2026-05-29"}}
 ---
 
 

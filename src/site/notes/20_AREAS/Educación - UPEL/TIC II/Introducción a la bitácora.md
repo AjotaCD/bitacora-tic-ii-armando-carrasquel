@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20_AREAS/Educación - UPEL/TIC II/Introducción a la bitácora/","tags":["gardenEntry"],"noteIcon":"[material-symbols--note-alt.svg](/img/user/99_ADJUNTOS/material-symbols--note-alt.svg)","updated":"2026-05-20T11:28:17.223-04:00","dg-note-properties":{"editor-width":100,"cssclasses":["hide-properties"],"sticker":"lucide//home","banner_y":"46","banner":"https://i.pinimg.com/736x/8d/2b/cc/8d2bccbf38151cfa6c727eabcc9531ec.jpg"}}
+{"dg-publish":true,"permalink":"/20_AREAS/Educación - UPEL/TIC II/Introducción a la bitácora/","tags":["gardenEntry"],"noteIcon":"[material-symbols--note-alt.svg](/img/user/99_ADJUNTOS/material-symbols--note-alt.svg)","dg-note-properties":{"editor-width":100,"cssclasses":["hide-properties"],"sticker":"lucide//home","banner_y":"46","banner":"https://i.pinimg.com/736x/8d/2b/cc/8d2bccbf38151cfa6c727eabcc9531ec.jpg"}}
 ---
 
 **Asignatura**: Tecnologías de la Información y Comunicación II (TIC II)
@@ -22,12 +22,14 @@ views:
     order:
       - file.name
       - fecha_creacion
+    columnSize:
+      file.name: 557
 
 ```
 
 ## Mi elección de herramienta. Digital Garden
 
-Originalmente, este registro se planteó como un blog convencional en Blogger. Sin embargo, en la búsqueda de un sistema que realmente potencie el aprendizaje interconectado y la gestión del conocimiento, he decidido migrar hacia un **Digital Garden**. Esta es una herramienta que funciona como un "publisher" para publicar notas de obsidian a modo de pagina web (Obsidian es un software de toma de notas en formato estandarizado markdown que permite mantener una jerarquia de encabezados simple).
+Originalmente, este registro se planteó como un blog convencional en Blogger. Sin embargo, en la búsqueda de un sistema que realmente potencie el aprendizaje interconectado y la gestión del conocimiento, he decidido migrar hacia un **Digital Garden**. Esta es una herramienta que funciona como un "publisher" para publicar notas de obsidian a modo de pagina web ([Obsidian](https://help.obsidian.md) es un software de toma de notas en formato estandarizado markdown que permite mantener una jerarquia de encabezados simple).
 El mayor desafio que pude encontrar durante la integración de esta herramienta fue la configuración del servidor con la herramienta Vercel y Github como host del repositorio. Sin embargo me parece la mejor manera de establecer mi bitácora
 
 Esta evolución me permite:
@@ -83,6 +85,6 @@ De acuerdo a las pautas del profesor, este espacio servirá para documentar:
 - **Evidencias:** Respaldo visual de cada etapa del aprendizaje.
 
 >[!whoa] Tablero digital
->Gracias a la función "Canvas" de obsidian, en esta misma plataforma estaré administrando el tablero digital
+>Gracias a la función "Canvas" de obsidian, en esta misma plataforma estaré administrando un tablero digital alternativo
 
 ![[20_AREAS/Educación - UPEL/TIC II/Tablero Digital.canvas\|Tablero Digital.canvas]]
