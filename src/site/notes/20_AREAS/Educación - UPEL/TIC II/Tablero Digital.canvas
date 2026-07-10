@@ -1,0 +1,94 @@
+---
+{"dg-publish":true,"permalink":"/20_AREAS/Educación - UPEL/TIC II/Tablero Digital.canvas/","contentClasses":"canvas-page","noteIcon":"","dg-note-properties":{}}
+---
+
+<div id="Tablero_Digitalcanvas" class="canvas-wrapper hide">
+	<svg class="canvas-background">
+		<defs>
+			<pattern id="canvas-grid-Tablero_Digitalcanvas" width="25" height="25" patternUnits="userSpaceOnUse">
+				<circle r="1.5" cx="12.5" cy="12.5"></circle>
+			</pattern>
+		</defs>
+		<rect width="100%" height="100%" fill="url(#canvas-grid-Tablero_Digitalcanvas)"></rect>
+	</svg>
+	<div class="canvas">
+		<svg class="canvas-edges-container" style="position:absolute;width:1px;height:1px;overflow:visible;">
+			<defs><marker id="arrow-vartextmuted" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto" markerUnits="strokeWidth">
+			<path d="M0,0.5 L5,3 L0,5.5" fill="none" stroke="var(--text-muted)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+		</marker>
+		<marker id="arrow-vartextmuted-start" markerWidth="6" markerHeight="6" refX="1" refY="3" orient="auto-start-reverse" markerUnits="strokeWidth">
+			<path d="M6,0.5 L1,3 L6,5.5" fill="none" stroke="var(--text-muted)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+		</marker><filter x="-0.1" y="-0.1" width="1.2" height="1.3" id="edge-label-bg">
+			<feFlood flood-color="var(--background-primary)" flood-opacity="1" result="bg"/>
+			<feMerge>
+				<feMergeNode in="bg"/>
+				<feMergeNode in="SourceGraphic"/>
+			</feMerge>
+		</filter></defs><path d="M 325 430 C 36.632179326472 430, 738.3678206735281 -280, 450 -280" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="1111111111111111"  marker-end="url(#arrow-vartextmuted)" /><text x="387.5" y="75" class="canvas-edge-label" filter="url(#edge-label-bg)" fill="var(--text-muted)">Explora</text>
+<path d="M 725 430 C 925.0099997500125 430, 849.9900002499875 50, 1050 50" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="2222222222222222"  marker-end="url(#arrow-vartextmuted)" /><text x="887.5" y="240" class="canvas-edge-label" filter="url(#edge-label-bg)" fill="var(--text-muted)">Previene</text>
+<path d="M 525 530 C 525 763.4523505985751, -50 396.5476494014249, -50 630" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="3333333333333333"  marker-end="url(#arrow-vartextmuted)" /><text x="237.5" y="580" class="canvas-edge-label" filter="url(#edge-label-bg)" fill="var(--text-muted)">Propone</text>
+<path d="M 525 530 C 525 728.0807915977721, 1010 431.9192084022279, 1010 630" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="4444444444444444"  marker-end="url(#arrow-vartextmuted)" /><text x="767.5" y="580" class="canvas-edge-label" filter="url(#edge-label-bg)" fill="var(--text-muted)">Reflexiona</text>
+<path d="M 525 530 C 525 695.4690303349844, 580 774.5309696650156, 580 940" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="5ae5ce79dda4d6ff"  marker-end="url(#arrow-vartextmuted)" /><text x="552.5" y="735" class="canvas-edge-label" filter="url(#edge-label-bg)" fill="var(--text-muted)">Investiga con</text>
+<path d="M 1350 50 C 1532.4719156473127 50, 1760 67.5280843526873, 1760 250" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="3f47073e9ac818c1"  marker-end="url(#arrow-vartextmuted)" /><text x="1623.4269683677421" y="81.57303163225774" class="canvas-edge-label" filter="url(#edge-label-bg)" fill="var(--text-muted)">Escucha nuestro podcast</text>
+<path d="M 580 1340 C 580 1405.2049077907484, 578 1437.7950922092516, 578 1503" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="791d1ac0a3c9d581"  marker-end="url(#arrow-vartextmuted)" />
+		</svg>
+		<div class="canvas-node canvas-node-text has-color" data-node-id="8f2ce05f66e01e39" style="transform: translate(1050px, -80px); width: 300px; height: 260px; --canvas-color: #fb464c;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyMgUmllc2dvcyBDcsOtdGljb3MKCi0gU29icmVpbmZvcm1hY2nDs24geSBkZXNpbmZvcm1hY2nDs24KLSBGcmFnbWVudGFjacOzbiBkZSBsYSBhdGVuY2nDs24KLSBCcmVjaGEgZGUgYXByb3BpYWNpw7NuCi0gQ2liZXJhY29zbyB5IGV4cG9zaWNpw7NuCi0gRGVwZW5kZW5jaWEgY29nbml0aXZhIHkgc29icmVleGl0YWNpw7NuIGRvcGFtaW7DqXJnaWNh"></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="7f1be94f55df0d28" style="transform: translate(150px, -380px); width: 300px; height: 200px; --canvas-color: #e9973f;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyMgT3BvcnR1bmlkYWRlcwoKLSBBY2Nlc28gYSBmdWVudGVzIHByaW1hcmlhcyAoYXV0b3JlcywgZWRpdG9yaWFsZXMpCi0gUHVibGljYWNpw7NuIGRlIG1pY3JvLXJlbGF0b3MKLSBBbGZhYmV0aXphY2nDs24gbXVsdGltb2RhbCAobWVtZXMsIHZpZGVvcnJlc2XDsWFzKQotIENvbXVuaWRhZGVzIGRlIGxlY3R1cmEgKERpc2NvcmQsIEZhY2Vib29rKQ=="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="6f0ad84f44ce9c17" style="transform: translate(325px, 330px); width: 400px; height: 200px; --canvas-color: #44cf6e;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyBSZWRlcyBTb2NpYWxlcyBjb21vIFJlY3Vyc28gRGlkw6FjdGljbwoKRXhwbG9yYWNpw7NuIGNyw610aWNhIGRlIHBsYXRhZm9ybWFzIGNvbW8gVHdpdHRlciwgSW5zdGFncmFtLCBUaWtUb2sgeSBZb3VUdWJlIGVuIGxhIGVuc2XDsWFuemEgZGUgTGVuZ3VhIHkgTGl0ZXJhdHVyYS4="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="9f3df16f77f12f4a" style="transform: translate(-200px, 630px); width: 300px; height: 210px; --canvas-color: #e0de71;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyMgRXN0cmF0ZWdpYXMgRG9jZW50ZXMKCi0gQ3VyYWR1csOtYSBkaWdpdGFsIGRlbCBjb250ZW5pZG8KLSBEZWJhdGVzIGFzaW5jcsOzbmljb3MgKGZvcm9zLCBjb21lbnRhcmlvcykKLSBQcm95ZWN0byAnSW5mbHVlbmNlciBMaXRlcmFyaW8nCi0gVXNvIGRlIGhhc2h0YWdzIHRlbcOhdGljb3M="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="0f4ef27f88f23f5b" style="transform: translate(860px, 630px); width: 300px; height: 200px; --canvas-color: #53dfdd;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyMgTWkgUG9zdHVyYSBQZXJzb25hbAoKLSBBZGFwdGFjacOzbiBwb3IgaGlwZXJsYXhpdHVkIChpbnRlcmFjY2lvbmVzIGNvcnRhcykKLSBMw61taXRlcyBjb25zY2llbnRlcyB5IGJsb3F1ZWFkb3JlcyBkZSBkaXN0cmFjY2nDs24KLSBFbnNlw7FhbnphIGRlc2RlIGVsIGVqZW1wbG8="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-link " data-node-id="15a97128a9d5a43f" style="transform: translate(380px, 940px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">scholar.google.com</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content">
+			<iframe src="https://scholar.google.com" class="canvas-link-iframe" loading="lazy" sandbox="allow-scripts allow-same-origin"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="145343eae2d05904" style="transform: translate(453px, 1503px); width: 250px; height: 300px; --canvas-color: #44cf6e;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="R29vZ2xlIGFjYWTDqW1pY28gZXMgTEEgaGVycmFtaWVudGEgZGUgaW52ZXN0aWdhY2nDs24uIFRpZW5lIHVuIGluZGV4IGN1cmFkbyByZXBsZXRvIGRlIGFydGljdWxvcyBjaWVudGlmaWNvcyBlIGludmVzdGlnYWNpb25lcyBjb24gZnVuZGFtZW50byBhY2Fkw6ltaWNvLCBhc2kgcXVlIG5vIGhheSBxdWUgcHJlb2N1cGFyc2UgcG9yIGxhcyBmdWVudGVzIHBvY28gcHJlY2lzYXMgbmkgdGFtcG9jbyBwb3IgYWx1Y2luYWNpb25lcyBwcm9waWFzIGRlIHVuYSBpbnRlbGlnZW5jaWEgYXJ0aWZpY2lhbC4="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-link canvas-node-youtube " data-node-id="88248c900ebf0d0e" style="transform: translate(1440px, 250px); width: 640px; height: 360px; ">
+	<div class="canvas-node-label">YouTube</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content">
+			<iframe src="https://www.youtube.com/embed/XR2KDTFgS7k" class="canvas-youtube-iframe" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		</div>
+	</div>
+</div>
+	</div>
+</div>
