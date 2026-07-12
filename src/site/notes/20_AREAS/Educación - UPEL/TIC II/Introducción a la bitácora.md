@@ -11,22 +11,23 @@ Tutor: Mg. Edgardo Yrausquin
 
 > [!Note] Este apartado funcionará como el centro de navegación del blog. Será actualizado con enlaces a medida que publique nuevas entradas.
 
-
-```base
-views:
-  - type: table
-    name: Tabla
-    filters:
-      and:
-        - file.hasProperty("dg-publish")
-    order:
-      - file.name
-      - fecha_creacion
-    columnSize:
-      file.name: 557
-
-```
-
+> [!abstract]
+> [[20_AREAS/Educación - UPEL/TIC II/El impacto de las TIC en la educación_ Transformaciones y desafíos en la enseñanza de Lengua y Literatura\|El impacto de las TIC en la educación_ Transformaciones y desafíos en la enseñanza de Lengua y Literatura]]
+[[20_AREAS/Educación - UPEL/TIC II/Entrada 1 - La arquitectura de mi pensamiento y como inspiró mi ensayo.\|Entrada 1 - La arquitectura de mi pensamiento y como inspiró mi ensayo.]]
+[[20_AREAS/Educación - UPEL/TIC II/Entrada 2 - Realización de un análisis critico y mi experiencia en un grupo interdisciplinario\|Entrada 2 - Realización de un análisis critico y mi experiencia en un grupo interdisciplinario]]
+[[20_AREAS/Educación - UPEL/TIC II/Entrada 3 - Reflexión sobre mi ensayo inicial y su evolución\|Entrada 3 - Reflexión sobre mi ensayo inicial y su evolución]]
+[[20_AREAS/Educación - UPEL/TIC II/Entrada 4 - Mi tablero digital_ visualizando el uso de redes sociales en el aula\|Entrada 4 - Mi tablero digital_ visualizando el uso de redes sociales en el aula]]
+[[20_AREAS/Educación - UPEL/TIC II/Entrada 5 - Reflexion sobre la brecha digital y mi contexto local\|Entrada 5 - Reflexion sobre la brecha digital y mi contexto local]]
+[[20_AREAS/Educación - UPEL/TIC II/Entrada 6 - Analisis de herramientas TIC para la enseñanza de la literatura\|Entrada 6 - Analisis de herramientas TIC para la enseñanza de la literatura]]
+[[20_AREAS/Educación - UPEL/TIC II/Entrada 7 - Mi experiencia con Obsidian y el metodo Zettelkasten\|Entrada 7 - Mi experiencia con Obsidian y el metodo Zettelkasten]]
+[[20_AREAS/Educación - UPEL/TIC II/Entrada 8 - El rol del docente en la era de la IA\|Entrada 8 - El rol del docente en la era de la IA]]
+[[20_AREAS/Educación - UPEL/TIC II/Entrada 9 - Elaboración de un podcast (Infoxicacion)\|Entrada 9 - Elaboración de un podcast (Infoxicacion)]]
+[[20_AREAS/Educación - UPEL/TIC II/Entrada 10 - Integracion de TIC en mi vida diaria (estudio de medicina y literatura)\|Entrada 10 - Integracion de TIC en mi vida diaria (estudio de medicina y literatura)]]
+[[20_AREAS/Educación - UPEL/TIC II/Entrada 11 - Comparativa Notion vs Obsidian para la gestion del conocimiento\|Entrada 11 - Comparativa Notion vs Obsidian para la gestion del conocimiento]]
+[[20_AREAS/Educación - UPEL/TIC II/Entrada 12 - La importancia de la alfabetizacion digital cri¡tica\|Entrada 12 - La importancia de la alfabetizacion digital cri¡tica]]
+[[20_AREAS/Educación - UPEL/TIC II/Entrada 13 - Mi evolucion como estudiante digital (autoevaluacion)\|Entrada 13 - Mi evolucion como estudiante digital (autoevaluacion)]]
+[[20_AREAS/Educación - UPEL/TIC II/Entrada 14 - Reflexion final y proyeccion (cierre del semestre)\|Entrada 14 - Reflexion final y proyeccion (cierre del semestre)]]
+> 
 ## Mi elección de herramienta. Digital Garden
 
 Originalmente, este registro se planteó como un blog convencional en Blogger. Sin embargo, en la búsqueda de un sistema que realmente potencie el aprendizaje interconectado y la gestión del conocimiento, he decidido migrar hacia un **Digital Garden**. Esta es una herramienta que funciona como un "publisher" para publicar notas de obsidian a modo de pagina web ([Obsidian](https://help.obsidian.md) es un software de toma de notas en formato estandarizado markdown que permite mantener una jerarquia de encabezados simple).
