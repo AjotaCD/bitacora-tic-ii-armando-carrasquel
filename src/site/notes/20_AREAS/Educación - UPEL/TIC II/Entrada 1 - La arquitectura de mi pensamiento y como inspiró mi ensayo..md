@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20_AREAS/Educación - UPEL/TIC II/Entrada 1 - La arquitectura de mi pensamiento y como inspiró mi ensayo./","noteIcon":"","dg-note-properties":{"fecha_creacion":"2026-05-27"}}
+{"dg-publish":true,"permalink":"/20_AREAS/Educación - UPEL/TIC II/Entrada 1 - La arquitectura de mi pensamiento y como inspiró mi ensayo./","noteIcon":"","created":"2026-05-27","dg-note-properties":{"fecha_creacion":"2026-05-27"}}
 ---
 
 La decisión de integrar el método Zettelkasten y las herramientas de gestión del conocimiento personal (PKM) (Herramientas que exploré en mi primer [[20_AREAS/Educación - UPEL/TIC II/El impacto de las TIC en la educación_ Transformaciones y desafíos en la enseñanza de Lengua y Literatura\|ensayo de la materia]] en mis estudios no fue el resultado de una consigna impuesta, sino una respuesta orgánica a la complejidad de mi propia vida. Al ser un estudiante inmerso en múltiples disciplinas donde la medicina, la ingenieria y la literatura convergen constantemente, descubrí pronto que el modelo tradicional de tomar apuntes lineales era insuficiente y, en mi caso particular, físicamente insostenible. Mi hiperlaxitud articular me obligó a buscar una vía más eficiente, donde la tecnología no fuera un accesorio, sino una extensión de mi propia capacidad cognitiva.

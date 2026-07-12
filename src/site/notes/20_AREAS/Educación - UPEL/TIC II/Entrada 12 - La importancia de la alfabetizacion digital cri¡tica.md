@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20_AREAS/Educación - UPEL/TIC II/Entrada 12 - La importancia de la alfabetizacion digital cri¡tica/","noteIcon":"","dg-note-properties":{"fecha_creacion":"2026-06-09"}}
+{"dg-publish":true,"permalink":"/20_AREAS/Educación - UPEL/TIC II/Entrada 12 - La importancia de la alfabetizacion digital cri¡tica/","noteIcon":"","created":"2026-06-09","dg-note-properties":{"fecha_creacion":"2026-06-09"}}
 ---
 
 

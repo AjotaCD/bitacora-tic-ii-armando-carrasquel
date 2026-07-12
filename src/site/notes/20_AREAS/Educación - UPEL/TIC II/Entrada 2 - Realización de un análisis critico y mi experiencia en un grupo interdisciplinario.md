@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20_AREAS/Educación - UPEL/TIC II/Entrada 2 - Realización de un análisis critico y mi experiencia en un grupo interdisciplinario/","noteIcon":"","dg-note-properties":{"fecha_creacion":"2026-05-29"}}
+{"dg-publish":true,"permalink":"/20_AREAS/Educación - UPEL/TIC II/Entrada 2 - Realización de un análisis critico y mi experiencia en un grupo interdisciplinario/","noteIcon":"","created":"2026-05-29","dg-note-properties":{"fecha_creacion":"2026-05-29"}}
 ---
 
 
@@ -61,5 +61,3 @@ Para validar el cumplimiento del criterio de **"Añadir Evidencia"** (4%) , pres
     ![Captura de pantalla (89).png](/img/user/99_ADJUNTOS/Captura%20de%20pantalla%20(89).png)
 
 ---
-
-> Nota para el profesor Mg. Edgardo Yrausquin: Esta publicación constituye la primera actualización cronológica de mi bitácora, vinculada directamente al índice estructural de la portada principal.

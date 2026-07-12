@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20_AREAS/Educación - UPEL/TIC II/Entrada 3 - Reflexión sobre mi ensayo inicial y su evolución/","noteIcon":"","dg-note-properties":{"fecha_creacion":"2026-05-29"}}
+{"dg-publish":true,"permalink":"/20_AREAS/Educación - UPEL/TIC II/Entrada 3 - Reflexión sobre mi ensayo inicial y su evolución/","noteIcon":"","created":"2026-05-29","dg-note-properties":{"fecha_creacion":"2026-05-29"}}
 ---
 
 

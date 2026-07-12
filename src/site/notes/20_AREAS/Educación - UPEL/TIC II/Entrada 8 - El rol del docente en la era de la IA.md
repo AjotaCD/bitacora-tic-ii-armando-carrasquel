@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20_AREAS/Educación - UPEL/TIC II/Entrada 8 - El rol del docente en la era de la IA/","noteIcon":"","dg-note-properties":{"fecha_creacion":"2026-06-04"}}
+{"dg-publish":true,"permalink":"/20_AREAS/Educación - UPEL/TIC II/Entrada 8 - El rol del docente en la era de la IA/","noteIcon":"","created":"2026-06-04","dg-note-properties":{"fecha_creacion":"2026-06-04"}}
 ---
 
 

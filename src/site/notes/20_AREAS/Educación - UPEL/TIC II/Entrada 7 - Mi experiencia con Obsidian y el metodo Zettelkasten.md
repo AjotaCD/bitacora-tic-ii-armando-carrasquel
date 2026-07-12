@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20_AREAS/Educación - UPEL/TIC II/Entrada 7 - Mi experiencia con Obsidian y el metodo Zettelkasten/","noteIcon":"","dg-note-properties":{"fecha_creacion":"2026-06-03"}}
+{"dg-publish":true,"permalink":"/20_AREAS/Educación - UPEL/TIC II/Entrada 7 - Mi experiencia con Obsidian y el metodo Zettelkasten/","noteIcon":"","created":"2026-06-03","dg-note-properties":{"fecha_creacion":"2026-06-03"}}
 ---
 
 

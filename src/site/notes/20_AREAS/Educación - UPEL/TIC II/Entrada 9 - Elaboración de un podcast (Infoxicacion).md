@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20_AREAS/Educación - UPEL/TIC II/Entrada 9 - Elaboración de un podcast (Infoxicacion)/","noteIcon":"","dg-note-properties":{"fecha_creacion":"2026-06-05"}}
+{"dg-publish":true,"permalink":"/20_AREAS/Educación - UPEL/TIC II/Entrada 9 - Elaboración de un podcast (Infoxicacion)/","noteIcon":"","created":"2026-06-05","dg-note-properties":{"fecha_creacion":"2026-06-05"}}
 ---
 
 

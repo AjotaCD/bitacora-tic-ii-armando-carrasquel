@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20_AREAS/Educación - UPEL/TIC II/Entrada 11 - Comparativa Notion vs Obsidian para la gestion del conocimiento/","noteIcon":"","dg-note-properties":{"fecha_creacion":"2026-06-08"}}
+{"dg-publish":true,"permalink":"/20_AREAS/Educación - UPEL/TIC II/Entrada 11 - Comparativa Notion vs Obsidian para la gestion del conocimiento/","noteIcon":"","created":"2026-06-08","dg-note-properties":{"fecha_creacion":"2026-06-08"}}
 ---
 
 

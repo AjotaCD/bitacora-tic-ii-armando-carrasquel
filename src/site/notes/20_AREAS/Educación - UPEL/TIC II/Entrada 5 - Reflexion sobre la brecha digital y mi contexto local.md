@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20_AREAS/Educación - UPEL/TIC II/Entrada 5 - Reflexion sobre la brecha digital y mi contexto local/","noteIcon":"","dg-note-properties":{"fecha_creacion":"2026-05-30"}}
+{"dg-publish":true,"permalink":"/20_AREAS/Educación - UPEL/TIC II/Entrada 5 - Reflexion sobre la brecha digital y mi contexto local/","noteIcon":"","created":"2026-05-30","dg-note-properties":{"fecha_creacion":"2026-05-30"}}
 ---
 
 

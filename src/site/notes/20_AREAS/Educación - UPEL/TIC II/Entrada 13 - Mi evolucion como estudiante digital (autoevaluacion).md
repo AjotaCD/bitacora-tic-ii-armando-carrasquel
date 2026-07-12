@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20_AREAS/Educación - UPEL/TIC II/Entrada 13 - Mi evolucion como estudiante digital (autoevaluacion)/","noteIcon":"","dg-note-properties":{"fecha_creacion":"2026-06-10"}}
+{"dg-publish":true,"permalink":"/20_AREAS/Educación - UPEL/TIC II/Entrada 13 - Mi evolucion como estudiante digital (autoevaluacion)/","noteIcon":"","created":"2026-06-10","dg-note-properties":{"fecha_creacion":"2026-06-10"}}
 ---
 
 

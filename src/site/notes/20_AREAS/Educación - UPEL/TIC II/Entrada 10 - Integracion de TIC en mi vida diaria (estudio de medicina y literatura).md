@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20_AREAS/Educación - UPEL/TIC II/Entrada 10 - Integracion de TIC en mi vida diaria (estudio de medicina y literatura)/","noteIcon":"","dg-note-properties":{"fecha_creacion":"2026-06-07"}}
+{"dg-publish":true,"permalink":"/20_AREAS/Educación - UPEL/TIC II/Entrada 10 - Integracion de TIC en mi vida diaria (estudio de medicina y literatura)/","noteIcon":"","created":"2026-06-07","dg-note-properties":{"fecha_creacion":"2026-06-07"}}
 ---
 
 

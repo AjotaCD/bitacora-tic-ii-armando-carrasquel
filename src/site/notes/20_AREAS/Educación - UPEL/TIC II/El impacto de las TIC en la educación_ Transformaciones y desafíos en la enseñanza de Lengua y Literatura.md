@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20_AREAS/Educación - UPEL/TIC II/El impacto de las TIC en la educación_ Transformaciones y desafíos en la enseñanza de Lengua y Literatura/","noteIcon":"","dg-note-properties":{"fecha_creacion":"2026-04-25"}}
+{"dg-publish":true,"permalink":"/20_AREAS/Educación - UPEL/TIC II/El impacto de las TIC en la educación_ Transformaciones y desafíos en la enseñanza de Lengua y Literatura/","noteIcon":"","created":"2026-04-25","dg-note-properties":{"fecha_creacion":"2026-04-25"}}
 ---
 
 **REPÚBLICA BOLIVARIANA DE VENEZUELA**

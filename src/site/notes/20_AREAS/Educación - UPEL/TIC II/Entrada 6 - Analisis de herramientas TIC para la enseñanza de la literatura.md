@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20_AREAS/Educación - UPEL/TIC II/Entrada 6 - Analisis de herramientas TIC para la enseñanza de la literatura/","noteIcon":"","dg-note-properties":{"fecha_creacion":"2026-06-01"}}
+{"dg-publish":true,"permalink":"/20_AREAS/Educación - UPEL/TIC II/Entrada 6 - Analisis de herramientas TIC para la enseñanza de la literatura/","noteIcon":"","created":"2026-06-01","dg-note-properties":{"fecha_creacion":"2026-06-01"}}
 ---
 
 

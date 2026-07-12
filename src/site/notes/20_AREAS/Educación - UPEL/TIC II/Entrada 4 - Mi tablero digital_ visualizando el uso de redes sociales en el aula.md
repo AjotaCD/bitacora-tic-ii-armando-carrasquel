@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20_AREAS/Educación - UPEL/TIC II/Entrada 4 - Mi tablero digital_ visualizando el uso de redes sociales en el aula/","noteIcon":"","dg-note-properties":{"fecha_creacion":"2026-05-29"}}
+{"dg-publish":true,"permalink":"/20_AREAS/Educación - UPEL/TIC II/Entrada 4 - Mi tablero digital_ visualizando el uso de redes sociales en el aula/","noteIcon":"","created":"2026-05-29","dg-note-properties":{"fecha_creacion":"2026-05-29"}}
 ---
 
 

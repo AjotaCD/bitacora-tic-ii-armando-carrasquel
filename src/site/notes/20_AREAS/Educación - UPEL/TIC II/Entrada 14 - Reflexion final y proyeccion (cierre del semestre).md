@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20_AREAS/Educación - UPEL/TIC II/Entrada 14 - Reflexion final y proyeccion (cierre del semestre)/","noteIcon":"","dg-note-properties":{"fecha_creacion":"2026-06-11"}}
+{"dg-publish":true,"permalink":"/20_AREAS/Educación - UPEL/TIC II/Entrada 14 - Reflexion final y proyeccion (cierre del semestre)/","noteIcon":"","created":"2026-06-11","dg-note-properties":{"fecha_creacion":"2026-06-11"}}
 ---
 
 
